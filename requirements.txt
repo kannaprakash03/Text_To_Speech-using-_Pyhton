@@ -1,3 +1,4 @@
 Flask
 gtts
 Werkzeug==2.2.2
+gunicorn
